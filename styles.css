@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+body{
+	width:70vw;
+	margin:auto;
+	background-color:lightcyan
+}
+#header{
+	text-align:center;
+	color:blueviolet;
+    font-family: 'georgia';
+    font-weight: bold;
+}
+#para{
+	font-size: 18px;
+	text-align:center;
+	color:green;
+}
